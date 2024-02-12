@@ -1,0 +1,4 @@
+﻿  BankExtension2.cpp
+C:\Users\Thinkpad\OneDrive\Desktop\ConsoleApplication3\BankExtension2\BankExtension2\BankExtension2.cpp(75,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Thinkpad\OneDrive\Desktop\ConsoleApplication3\BankExtension2\BankExtension2\BankExtension2.cpp(110,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Thinkpad\OneDrive\Desktop\ConsoleApplication3\BankExtension2\x64\Debug\BankExtension2.exe for writing
